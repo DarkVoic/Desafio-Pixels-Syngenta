@@ -1,0 +1,10 @@
+C:\Users\mathe\Projetos Cursos\Syngenta Digital\Desafio Pixel Syngenta\Desafio Pixel Syngenta\bin\Debug\Desafio Pixel Syngenta.exe.config
+C:\Users\mathe\Projetos Cursos\Syngenta Digital\Desafio Pixel Syngenta\Desafio Pixel Syngenta\bin\Debug\Desafio Pixel Syngenta.exe
+C:\Users\mathe\Projetos Cursos\Syngenta Digital\Desafio Pixel Syngenta\Desafio Pixel Syngenta\bin\Debug\Desafio Pixel Syngenta.pdb
+C:\Users\mathe\Projetos Cursos\Syngenta Digital\Desafio Pixel Syngenta\Desafio Pixel Syngenta\obj\Debug\Desafio_Pixel_Syngenta.Form1.resources
+C:\Users\mathe\Projetos Cursos\Syngenta Digital\Desafio Pixel Syngenta\Desafio Pixel Syngenta\obj\Debug\Desafio_Pixel_Syngenta.Properties.Resources.resources
+C:\Users\mathe\Projetos Cursos\Syngenta Digital\Desafio Pixel Syngenta\Desafio Pixel Syngenta\obj\Debug\Desafio Pixel Syngenta.csproj.GenerateResource.cache
+C:\Users\mathe\Projetos Cursos\Syngenta Digital\Desafio Pixel Syngenta\Desafio Pixel Syngenta\obj\Debug\Desafio Pixel Syngenta.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Projetos Cursos\Syngenta Digital\Desafio Pixel Syngenta\Desafio Pixel Syngenta\obj\Debug\Desafio Pixel Syngenta.exe
+C:\Users\mathe\Projetos Cursos\Syngenta Digital\Desafio Pixel Syngenta\Desafio Pixel Syngenta\obj\Debug\Desafio Pixel Syngenta.pdb
+C:\Users\mathe\Projetos Cursos\Syngenta Digital\Desafio Pixel Syngenta\Desafio Pixel Syngenta\obj\Debug\Desafio Pixel Syngenta.csprojAssemblyReference.cache

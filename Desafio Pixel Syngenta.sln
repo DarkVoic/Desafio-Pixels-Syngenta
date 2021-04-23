@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio Pixel Syngenta", "Desafio Pixel Syngenta\Desafio Pixel Syngenta.csproj", "{71AF9353-5459-41BD-98E4-FFDCBB03E51A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71AF9353-5459-41BD-98E4-FFDCBB03E51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AF9353-5459-41BD-98E4-FFDCBB03E51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AF9353-5459-41BD-98E4-FFDCBB03E51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AF9353-5459-41BD-98E4-FFDCBB03E51A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F931CECE-2D42-450C-A734-90DB7F0B285E}
+	EndGlobalSection
+EndGlobal
